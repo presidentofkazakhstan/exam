@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product>
+  <product name="Хлеб">
+    <price>80</price>
+    <count>15</count>
+  </product>
+  <product name="Морожное">
+    <price>500</price>
+    <count>5</count>
+  </product>
+  <product name="Вода">
+    <price>100</price>
+    <count>10</count>
+  </product>
+  <product name="Жевачка">
+    <price>10</price>
+    <count>20</count>
+  </product>
+  <product name="Стул">
+    <price>1000</price>
+    <count>5</count>
+  </product>
+  <product name="Ручка">
+    <price>500</price>
+    <count>10</count>
+  </product>
+  <product name="Чипсы">
+    <price>150</price>
+    <count>5</count>
+  </product>
+  <product name="Кола">
+    <price>150</price>
+    <count>10</count>
+  </product>
+</Product>
